@@ -1,2 +1,4 @@
-# calculator-vanilla-js
-Calculator w/ vanilla js.
+# Calculator w/ Vanilla JS
+Calculator w/ vanilla js.  
+
+[Demo]()
